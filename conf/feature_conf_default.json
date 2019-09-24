@@ -1,0 +1,7 @@
+{
+  "feature_cols": [],
+  "id_cols": [],
+  "label_col": null,
+  "max_bins": 20,
+  "dummy_na": false
+}

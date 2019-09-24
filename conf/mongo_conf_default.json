@@ -1,0 +1,7 @@
+{
+    "projectName": "segmentation",
+    "slaveLifetime": 1200,
+    "iterationTimeout": 3,
+    "maxWait": 3600,
+    "connection":"mongodb://127.0.0.1:27017/jobs"
+}
